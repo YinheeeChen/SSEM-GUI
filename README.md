@@ -24,6 +24,7 @@ To install and run this project, follow these steps:
    ```sh
    qmake
    make
+   ```
 
 ## Usage
 To use the SSEM-GUI, follow these instructions:
